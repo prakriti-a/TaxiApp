@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Taxi App</string>
+    <string name="lat_long">Location</string>
+    <string name="permission_denied">This App does not have permission to access User Location</string>
+    <string name="access_error">App is unable to access location\nPlease try again later</string>
+    <string name="play_services_error">Unable to access Google Play Services</string>
+    <string name="hint_dest">Enter Destination Address</string>
+    <string name="distance">Distance from current location: </string>
+    <string name="time_rem">Time to get to destination: </string>
+    <string name="hint_speed">Enter Speed in Miles per Hour</string>
+    <string name="hint_metres">Enter Metres per Mile</string>
+    <string name="get_data">Get Data</string>
+</resources>
